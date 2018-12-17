@@ -1,2 +1,2 @@
 # video-game
-This is a video game for ICS3U.
+This is a platformer game for ICS3U made with Unity.
